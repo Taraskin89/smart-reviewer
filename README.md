@@ -1,2 +1,0 @@
-# smart-reviewer
-Test-task
